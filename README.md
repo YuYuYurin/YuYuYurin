@@ -1,6 +1,6 @@
 # Hi, I’m YuYuYurin ✨ 
 - 👀 I’m interested in cooking, reading, efficient working(automation) , learning apps for kids. 
-- 🌱 I’m currently learning spring boot, Flask, Blockschain, Data Science.
+- 🌱 I’m currently learning spring boot, Flask, Blockschain, Databank.
 - 💞️ I’m looking to collaborate on projects written in Python and Java or in context with AWS.
 
 ## My Projects
